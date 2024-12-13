@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    
+}
+#enqorbox{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 179px;
+    margin-right: 179px;
+}
+#navlogo{
+    vertical-align: middle;
+
+}
+#navi{
+    max-width: 980px;
+    width: 100%;
+    padding-left: 80px;
+}
+#button{
+    color: #AC00FF;
+    font-size: 14px;
+    display: inline-block;
+    padding: 8px 16px;
+    align-items: center;
+    border-radius: 8px;
+    border: 1px solid #AC00FF;
+    background: #E9D7FE;
+}
+
+#enqorbox a{
+    padding-left: 10px;
+}
+/*mein*/
+#mainbox{
+    margin-left: 214px;
+    margin-top: 76px;
+
+}
+#satauri{
+    color: #323232;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    max-width: 720px;
+    width: 100%;
+
+
+}
+#texti{
+    color: #323232;
+    font-size: 24px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    max-width: 841px;
+    width: 100%;
+
+}
+#border{
+    color: #FFF;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    width: 204px;
+    padding: 16px 24px;
+    align-items: center;
+    border-radius: 8px;
+    background: #5C3BAE;
+    max-width: 156px;
+    width: 100%;
+    margin-left: 214px;
+    vertical-align: middle;
+    display: inline-block;
+
+}
+#buttona{
+    width: 32.013px;
+    max-width: 32px;
+    width: 100%;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 24px;
+
+}
+#linktegi{
+    display: inline-block;
+    vertical-align: middle;
+    color: #4D3491;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+#fotobox{
+    max-width: 1311px;
+    margin-left: auto;
+    
+
+}
+#suraTierti{
+   width: 100%;
+
+}
