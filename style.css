@@ -4,6 +4,11 @@
     box-sizing:border-box;
     
 }
+#boxheder{
+    max-width: 980px;
+    width: 100%;
+
+}
 #enqorbox{
     display: inline-block;
     vertical-align: middle;
@@ -15,9 +20,10 @@
 
 }
 #navi{
-    max-width: 980px;
-    width: 100%;
+   
     padding-left: 80px;
+    margin: 0 auto;
+
 }
 #button{
     color: #AC00FF;
@@ -34,10 +40,15 @@
     padding-left: 10px;
 }
 /*mein*/
-#mainbox{
-    margin-left: 214px;
-    margin-top: 76px;
+#main-conteiner{
+   
+    
+}
 
+#mainbox{
+    margin: 0 auto;
+    max-width: 980px;
+    width: 100%;
 }
 #satauri{
     color: #323232;
@@ -94,12 +105,15 @@
 
 }
 #fotobox{
+    
     max-width: 1311px;
-    margin-left: auto;
+    text-align: right;
+    
     
 
 }
 #suraTierti{
-   width: 100%;
+    width: 100%;
+    margin-top: -70px;
 
 }
